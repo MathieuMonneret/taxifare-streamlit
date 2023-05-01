@@ -13,7 +13,7 @@ xgboost==1.1.1
 memoized-property==1.0.3
 scipy== 1.2.2
 category_encoders==2.2.2
-flask==1.1.1
+flask==2.3.2
 flask-cors
 gunicorn
 s3fs
